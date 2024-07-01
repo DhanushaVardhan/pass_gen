@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pass_gen/static/css/main.55f3aa8c.css",
+    "main.js": "/pass_gen/static/js/main.882851a9.js",
+    "index.html": "/pass_gen/index.html",
+    "main.55f3aa8c.css.map": "/pass_gen/static/css/main.55f3aa8c.css.map",
+    "main.882851a9.js.map": "/pass_gen/static/js/main.882851a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f3aa8c.css",
+    "static/js/main.882851a9.js"
+  ]
+}
